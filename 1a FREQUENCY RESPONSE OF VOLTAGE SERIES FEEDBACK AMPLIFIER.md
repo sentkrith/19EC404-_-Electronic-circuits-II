@@ -34,7 +34,7 @@ The following parameters are calculated:
 | 5 | Gain at half power point |  |  |
 ---
 **Conclusion:**  
-The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
+The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations
 
 ---
 
