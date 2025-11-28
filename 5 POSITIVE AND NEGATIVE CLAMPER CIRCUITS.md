@@ -20,6 +20,7 @@
 **POSITIVE CLAMPER**
 ![WhatsApp Image 2025-11-28 at 13 27 58_91a00b91](https://github.com/user-attachments/assets/590b2892-50d6-4a20-93b7-f01e6b1145a4)
 
+
 **NEGATIVE CLAMPER**
 ![WhatsApp Image 2025-11-28 at 13 27 58_c400d955](https://github.com/user-attachments/assets/c5d12cb5-03a4-4c7a-9459-49a6a248bfc1)
 
