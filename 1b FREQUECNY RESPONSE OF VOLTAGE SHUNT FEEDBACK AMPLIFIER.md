@@ -15,26 +15,19 @@
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
 # Tabulation
+![WhatsApp Image 2025-11-28 at 12 18 47_027b61af](https://github.com/user-attachments/assets/ea9b55a8-8f73-463d-a953-7ea498eabcad)
 
 
 # Graph
+![WhatsApp Image 2025-11-28 at 12 18 47_920008a6](https://github.com/user-attachments/assets/0253757b-0c5e-4fe1-bc1d-cc9913a5b2ab)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-28 at 12 18 48_77aa54fc](https://github.com/user-attachments/assets/206e0ea2-f4a8-4e7a-bf7d-79598a02ea58)
 
 
 ### **Result**
-
-Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
-| S.No | Parameters | Without Feedback | With Feedback |
-|:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
-
----
+![WhatsApp Image 2025-11-28 at 12 18 48_cc5eda59](https://github.com/user-attachments/assets/1732f4bd-064d-4f2d-aaca-24535bc450b4)
 
 **Conclusion:**  
 The frequency response of the voltage-shunt feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
