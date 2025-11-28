@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-28 at 12 50 00_526a5cb4](https://github.com/user-attachments/assets/f5e42960-dcf9-45ac-b585-627626fabf3d)## Exp. No. 2(b)
+## Exp. No. 2(b)
 **Date:**  04.10.2025
 
 ## DESIGN OF WEIN BRIDGE OSCILLATOR
